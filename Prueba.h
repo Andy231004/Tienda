@@ -11,6 +11,8 @@ public:
     Prueba(int);
 
     int getnum () const;
+    void suma () ;
+
 private:
     int _x;
 };

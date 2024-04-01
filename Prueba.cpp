@@ -7,3 +7,5 @@
 Prueba::Prueba(int x):_x{x} {}
 
 int Prueba::getnum() const {return _x;}
+
+void Prueba::suma()  {_x + _x;}
